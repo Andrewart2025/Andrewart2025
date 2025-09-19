@@ -1,7 +1,8 @@
 <!-- Encabezado con banner -->
 <p align="center">
-  <img src="https://github.com/AndresArteaga/AndresArteaga/blob/main/assets/banner-qa.gif" alt="Banner QA Engineer" width="100%"/>
+  <img src="https://github.com/Andrewart2025/Andrewart2025/blob/main/ChatGPT%20Image%2019%20sept%202025%2C%2014_06_03.png" alt="Banner QA Engineer" width="100%"/>
 </p>
+
 
 <h1 align="center">👋 Hola, soy <strong>Andrés Felipe Arteaga Cruz</strong></h1>
 <h3 align="center">🎯 QA Engineer | Pruebas Funcionales y Automatizadas | Selenium · Postman · SQL · Jira</h3>
@@ -46,7 +47,7 @@ QA Engineer **bilingüe (C1)** con formación en Ingeniería Industrial y mejora
 ## 📂 Proyectos Destacados  
 
 📌 **Urban Grocers** – Pruebas QA manuales y reporte de bugs.  
-📌 **Urban Routes** – Pruebas Automatizadas end-to-end con Selenium + Pytest.  
+📌 **Urban Routes** – Pruebas automatizadas end-to-end con Selenium + Pytest.  
 📌 **Ez-scooter API** – Validación de endpoints y notificaciones push.  
 
 ---
@@ -73,4 +74,3 @@ QA Engineer **bilingüe (C1)** con formación en Ingeniería Industrial y mejora
 ---
 
 ✨ _Siempre en búsqueda de mejorar la calidad del software y aprender nuevas tecnologías._
-
