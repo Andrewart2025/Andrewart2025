@@ -1,70 +1,56 @@
-<!-- Encabezado con banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Andrewart2025/Andrewart2025/blob/main/ChatGPT%20Image%2019%20sept%202025%2C%2014_06_03.png" alt="Banner QA Engineer" width="100%"/>
-</p>
-
-<h1 align="center">👋 Hola, soy <strong>Andrés Felipe Arteaga Cruz</strong></h1>
-<h3 align="center">🎯 QA Engineer | Pruebas Funcionales y Automatizadas | Selenium · Postman · SQL · Jira</h3>
-<h4 align="center">🎓 Ingeniero Industrial y Especialista en Procesos y Calidad</h4>
-
----
-
-## 🚀 Sobre mí  
-QA Engineer **bilingüe (C1)** con formación en Ingeniería Industrial y mejora de procesos.  
-💻 Experiencia en pruebas funcionales, de regresión y móviles.  
-🔍 Validación de **APIs** y consultas **SQL** para verificación de datos.  
-⚙️ He participado en proyectos de automatización con **Selenium**, **Python** y **Pytest**.  
-📊 Fuerte enfoque en documentación clara, métricas y mejora continua.  
-
----
-
-## 🛠️ Tecnologías y Herramientas  
-
-<p align="center">
-  <!-- Pruebas -->
-  <img src="https://img.shields.io/badge/Pruebas-Funcionales-blue?style=for-the-badge&logo=testinglibrary" />
-  <img src="https://img.shields.io/badge/Pruebas-Regresión-lightblue?style=for-the-badge&logo=dependabot" />
-  <img src="https://img.shields.io/badge/Móviles-Testing-green?style=for-the-badge&logo=android" />
-  
-  <!-- Automatización -->
-  <img src="https://img.shields.io/badge/Selenium-WebDriver-darkgreen?style=for-the-badge&logo=selenium" />
-  <img src="https://img.shields.io/badge/Python-Pytest-yellow?style=for-the-badge&logo=python" />
-  
-  <!-- APIs -->
-  <img src="https://img.shields.io/badge/Postman-API-orange?style=for-the-badge&logo=postman" />
-  <img src="https://img.shields.io/badge/JSON-XML-grey?style=for-the-badge&logo=json" />
-  
-  <!-- BD y Herramientas -->
-  <img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/Jira-Management-blue?style=for-the-badge&logo=jira" />
-  <img src="https://img.shields.io/badge/Confluence-Docs-lightblue?style=for-the-badge&logo=confluence" />
-  <img src="https://img.shields.io/badge/Android%20Studio-Emulator-green?style=for-the-badge&logo=androidstudio" />
+  <img src="https://github.com/Andrewart2025/Andrewart2025/blob/main/ChatGPT%20Image%2019%20sept%202025%2C%2014_06_03.png" alt="Banner QA Engineer" width="100%" />
 </p>
 
 ---
 
-## 📂 Proyectos Destacados  
-
-🔹 **Urban Grocers – Pruebas QA**  
-🔹 **Urban Routes – Pruebas Automatizadas**  
-🔹 **API Standard Tests**  
+# 👋 Hola, soy Andrés Felipe Arteaga Cruz  
+🎯 **QA Engineer | Pruebas Funcionales y Automatizadas | Selenium · Postman · SQL · Jira**  
+🎓 **Ingeniero Industrial y Especialista en Procesos y Calidad**
 
 ---
 
-## 🌐 Conecta conmigo  
+## 🧑‍💻 Sobre mí
+- QA Engineer bilingüe (C1) con formación en Ingeniería Industrial y mejora de procesos.  
+- Experiencia en pruebas funcionales, de regresión y móviles.  
+- Validación de APIs y consultas SQL para verificación de datos.  
+- Proyectos de automatización con Selenium, Python y Pytest.  
+- Fuerte enfoque en documentación clara, métricas y mejora continua.  
+
+---
+
+## ⚙️ Tecnologías
+- **Pruebas Manuales:** Funcionales · Regresión · Móviles · Localización  
+- **Automatización:** Selenium WebDriver · Python · Pytest  
+- **APIs:** Postman · JSON · XML  
+- **Bases de Datos:** SQL  
+- **Herramientas:** Jira · Confluence · Android Studio Emulator  
+
+---
+
+## 🚀 Proyectos Destacados
+- Urban Grocers – Pruebas QA  
+- Urban Routes – Pruebas Automatizadas  
+- API Standard Tests  
+
+---
+
+## 📫 Conecta conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/andresfelipearteaga/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin" />
+  <!-- Botón Email -->
+  <a href="mailto:andresfelipearteaga@email.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button"/>
   </a>
-  <a href="mailto:andresfelipeac@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contacto-red?style=for-the-badge&logo=gmail" />
+
+  <!-- Botón LinkedIn -->
+  <a href="https://www.linkedin.com/in/tuusuario/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button"/>
   </a>
-  <a href="https://github.com/AndresArteaga">
-    <img src="https://img.shields.io/badge/GitHub-Portafolio-black?style=for-the-badge&logo=github" />
+
+  <!-- Botón GitHub -->
+  <a href="https://github.com/Andrewart2025">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button"/>
   </a>
 </p>
-
----
-
-✨ _Siempre en búsqueda de mejorar la calidad del software y aprender nuevas tecnologías._
