@@ -1,6 +1,6 @@
 <!-- Encabezado con banner -->
 <p align="center">
-  <img src="https://github.com/AndresArteaga/AndresArteaga/blob/main/assets/ChatGPT Image 19 sept 2025, 14_06_03" alt="Banner QA Engineer" width="100%"/>
+  <img src="https://github.com/Andrewart2025/Andrewart2025/blob/main/ChatGPT%20Image%2019%20sept%202025%2C%2014_06_03.png" alt="Banner QA Engineer" width="100%"/>
 </p>
 
 <h1 align="center">👋 Hola, soy <strong>Andrés Felipe Arteaga Cruz</strong></h1>
