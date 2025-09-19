@@ -4,6 +4,7 @@
 </p>
 
 
+
 <h1 align="center">👋 Hola, soy <strong>Andrés Felipe Arteaga Cruz</strong></h1>
 <h3 align="center">🎯 QA Engineer | Pruebas Funcionales y Automatizadas | Selenium · Postman · SQL · Jira</h3>
 <h4 align="center">🎓 Ingeniero Industrial y Especialista en Procesos y Calidad</h4>
@@ -11,11 +12,17 @@
 ---
 
 ## 🚀 Sobre mí  
-QA Engineer **bilingüe (C1)** con formación en Ingeniería Industrial y mejora de procesos.  
-💻 Experiencia en **pruebas funcionales, de regresión y móviles**.  
-🔍 Validación de **APIs** y consultas **SQL** para verificación de datos.  
-⚙️ He participado en proyectos de automatización con **Selenium**, **Python** y **Pytest**.  
-📊 Fuerte enfoque en **documentación clara, métricas y mejora continua**.  
+
+Soy un **QA Engineer bilingüe (Inglés C1)** con un viaje curioso por el mundo de la tecnología.  
+Mi historia comenzó en proyectos de gestión de calidad y mejora de procesos, pero pronto descubrí que mi verdadera pasión estaba en **probar, validar y automatizar**.  
+
+Desde allí, me he movido entre:  
+- Detectar bugs en aplicaciones reales.  
+- Automatizar flujos con **Selenium y Python**.  
+- Validar **APIs REST** con Postman y scripts personalizados.  
+- Hacer pruebas en **apps móviles** con Android Studio.  
+
+Me gusta contar mi experiencia como una serie de retos superados: desde reducir tiempos de procesos en empresas hasta garantizar entregas de proyectos críticos sin errores. Cada paso ha sido una oportunidad para aprender y crecer.  
 
 ---
 
@@ -52,6 +59,22 @@ QA Engineer **bilingüe (C1)** con formación en Ingeniería Industrial y mejora
 
 ---
 
+## 📊 Mis Stats en GitHub  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AndresArteaga&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AndresArteaga&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresArteaga&layout=compact&theme=tokyonight" alt="Top Langs"/>
+</p>
+
+---
+
 ## 🌐 Conecta conmigo  
 
 <p align="center">
@@ -73,4 +96,4 @@ QA Engineer **bilingüe (C1)** con formación en Ingeniería Industrial y mejora
 
 ---
 
-✨ _Siempre en búsqueda de mejorar la calidad del software y aprender nuevas tecnologías._
+✨ _Siempre en búsqueda de mejorar la calidad del software y aprender nuevas tecnologías._  
