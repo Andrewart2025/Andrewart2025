@@ -6,37 +6,38 @@
 ---
 
 # 👋 Hola, soy Andrés Felipe Arteaga Cruz  
+
 🎯 **QA Engineer | Pruebas Funcionales y Automatizadas | Selenium · Postman · SQL · Jira**  
 🎓 **Ingeniero Industrial y Especialista en Procesos y Calidad**
 
 ---
 
-## 🧑‍💻 Sobre mí
-- QA Engineer bilingüe (C1) con formación en Ingeniería Industrial y mejora de procesos.  
-- Experiencia en pruebas funcionales, de regresión y móviles.  
-- Validación de APIs y consultas SQL para verificación de datos.  
-- Proyectos de automatización con Selenium, Python y Pytest.  
-- Fuerte enfoque en documentación clara, métricas y mejora continua.  
+## 🚀 Sobre mí  
+🔹 QA Engineer **bilingüe (C1)** con formación en Ingeniería Industrial y mejora de procesos.  
+🔹 Experiencia en **pruebas funcionales, de regresión y móviles**.  
+🔹 Validación de **APIs y consultas SQL** para verificación de datos.  
+🔹 Participación en proyectos de automatización con **Selenium, Python y Pytest**.  
+🔹 Enfoque en documentación clara, métricas y **mejora continua**.  
 
 ---
 
-## ⚙️ Tecnologías
-- **Pruebas Manuales:** Funcionales · Regresión · Móviles · Localización  
-- **Automatización:** Selenium WebDriver · Python · Pytest  
-- **APIs:** Postman · JSON · XML  
-- **Bases de Datos:** SQL  
-- **Herramientas:** Jira · Confluence · Android Studio Emulator  
+## 🛠️ Tecnologías y Herramientas  
+- 🧪 **Pruebas Manuales:** Funcionales · Regresión · Móviles · Localización  
+- 🤖 **Automatización:** Selenium WebDriver · Python · Pytest  
+- 🌐 **APIs:** Postman · JSON · XML  
+- 💾 **Bases de Datos:** SQL  
+- 📌 **Gestión:** Jira · Confluence · Android Studio Emulator  
 
 ---
 
-## 🚀 Proyectos Destacados
-- Urban Grocers – Pruebas QA  
-- Urban Routes – Pruebas Automatizadas  
-- API Standard Tests  
+## 📂 Proyectos Destacados  
+📌 **Urban Grocers** – Pruebas QA manuales y reporte de bugs.  
+📌 **Urban Routes** – Pruebas Automatizadas end-to-end con Selenium + Pytest.  
+📌 **Ez-scooter API** – Validación de endpoints y notificaciones push.  
 
 ---
 
-## 📫 Conecta conmigo
+## 📫 Conecta conmigo  
 
 <p align="center">
   <!-- Botón Email -->
@@ -54,3 +55,5 @@
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button"/>
   </a>
 </p>
+
+
